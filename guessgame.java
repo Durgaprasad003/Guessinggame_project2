@@ -17,7 +17,7 @@ class guess{
             int guess=input.nextInt();
             if(random==guess)
             {
-                System.out.println("CONGRATULATIONS😘😘😘😘🥰🥰");
+                System.out.println("CONGRATULATIONS😥😫😑");
                 
             }
             else if(random>guess)
